@@ -1,0 +1,20 @@
+body {
+  background-color: #262626;
+}
+/*
+.container {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  background-color: silver;
+}
+*/
+.container {
+  padding: 10px;
+  background-color: red;
+}
+.content {
+  width: 50%;
+  margin: 5px auto;
+  background-color: green;
+}
