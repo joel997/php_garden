@@ -1,0 +1,27 @@
+.bg-primary {
+  background-color: #00B0F0 !important;
+}
+.bg-primary ul li a:hover{
+  color: #C8C8C8;
+}
+.bg-primary ul li a.selected{
+  color: #595959 !important;
+}
+body {
+  background-color: #262626;
+}
+.fltSrc {
+  color: white;
+  padding: 10px;
+  font-size: 25px;
+}
+.form-group {
+  color: white;
+  padding-top: 50px;
+  font-size: 25px;
+}
+.fltBorder {
+  border: 2px solid white;
+  padding: 20px;
+  border-radius: 30px;
+}
